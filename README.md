@@ -1,2 +1,2 @@
 # Masterign-If-statements
-Beginner-level C++ project created for a class to practice if statements and basic conditional logic.
+C++ Project foucused on implementing complex conditional logic and range validation 
